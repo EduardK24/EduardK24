@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.eduardkutnik.dev"><img alt="Website" src="https://img.shields.io/badge/LinkedIn-eduard--kutnik-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eduard-kutnik/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eduard--kutnik-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:eduard.kutnik.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduard.kutnik.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
